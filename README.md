@@ -7,7 +7,7 @@ This Library Management System is a Java application demonstrates how to manage 
 ## Screenshots
 ![output1](screenshots/output1.png)
 
-![output2](screenshots/output1.png)
+![output2](screenshots/output2.png)
 
 ![sql_output1](screenshots/sqloutput1.png)
 
